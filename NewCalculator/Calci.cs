@@ -26,10 +26,7 @@ namespace NewCalculator
             {
                 Console.WriteLine("addition of two number is. " + (v1 / v2));
             }
-            else if(op=='M')
-                 {
-                Console.WriteLine("addition of two number is. " + (v1 / v2));
-            }
+            
             else
             {
                 Console.WriteLine("Invalid operator. Please use +, -, *, or /.");
